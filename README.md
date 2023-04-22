@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YoYo-JDC
 - 👀 I’m interested in economic and statistical modeling, coding and solving the unsolved problems, hiking, cooking and playing flute.
 - 🌱 I’m currently learning the application machine learning
-- 💞️ I’m looking to collaborate on exploring solutions to the ifficult economic, business problems
+- 💞️ I’m looking to collaborate on exploring solutions to the difficult economic, business problems
 - 📫 How to reach me samanthajiang2011@gmail.com
 
 <!---
